@@ -1,0 +1,11 @@
+flask
+flask-cors
+psycopg2
+requests
+numpy
+opencv-python-headless
+pytesseract
+pillow
+python-dotenv
+gTTS
+gunicorn
